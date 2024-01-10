@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"jsonFile" : "directory-src-Debug-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "src/include",
+					"jsonFile" : "directory-src.include-Debug-b1f4babc0634c207658a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/include"
+				},
+				{
+					"build" : "src/portable",
+					"jsonFile" : "directory-src.portable-Debug-eaa7b96b870f2320f3c7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/portable",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "fbs_app",
+					"jsonFile" : "directory-fbs_app-Debug-7a941d48b766e11c4081.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "fbs_app",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "fbs_app",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 4,
+					"id" : "fbs_app::@5383def49409052fa7a4",
+					"jsonFile" : "target-fbs_app-Debug-47bfd7d3fa01137ed384.json",
+					"name" : "fbs_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "freertos_kernel::@145eef247bfb46b6828c",
+					"jsonFile" : "target-freertos_kernel-Debug-acea12d815e0f7b2be05.json",
+					"name" : "freertos_kernel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "freertos_kernel_port::@4296aa34f853af0f0ff9",
+					"jsonFile" : "target-freertos_kernel_port-Debug-0306045c6f449e0d4019.json",
+					"name" : "freertos_kernel_port",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-2/fbs/build",
+		"source" : "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-2/fbs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,56 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "chatterbox_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chatterbox_app-Debug-328d37668bda6ecd296b.json",
+					"name" : "chatterbox_app",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/chatterbox_app/out/build/x64-Debug",
+		"source" : "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/chatterbox_app"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

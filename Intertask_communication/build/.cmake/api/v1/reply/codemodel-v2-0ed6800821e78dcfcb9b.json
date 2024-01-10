@@ -1,0 +1,142 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"jsonFile" : "directory-src-Debug-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src/include",
+					"jsonFile" : "directory-src.include-Debug-b1f4babc0634c207658a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/include"
+				},
+				{
+					"build" : "src/portable",
+					"jsonFile" : "directory-src.portable-Debug-eaa7b96b870f2320f3c7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/portable",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "ipc_app",
+					"jsonFile" : "directory-ipc_app-Debug-23d544fb1e8b1a1bc488.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ipc_app",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "ipc_app",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "freertos_kernel::@145eef247bfb46b6828c",
+					"jsonFile" : "target-freertos_kernel-Debug-2ed5a055c19f73c61f39.json",
+					"name" : "freertos_kernel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "freertos_kernel_port::@4296aa34f853af0f0ff9",
+					"jsonFile" : "target-freertos_kernel_port-Debug-a7eadf1067261138edc1.json",
+					"name" : "freertos_kernel_port",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ipc_app::@1bfb17d527209cedc5f1",
+					"jsonFile" : "target-ipc_app-Debug-dc748445f9439c6ce401.json",
+					"name" : "ipc_app",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-3/zintertask_communication/build",
+		"source" : "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-3/zintertask_communication"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

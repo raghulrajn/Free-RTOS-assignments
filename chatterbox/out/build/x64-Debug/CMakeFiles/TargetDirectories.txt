@@ -1,0 +1,13 @@
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/out/build/x64-Debug/src/CMakeFiles/freertos_kernel.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/out/build/x64-Debug/src/include/CMakeFiles/edit_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/out/build/x64-Debug/src/include/CMakeFiles/rebuild_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/out/build/x64-Debug/src/portable/CMakeFiles/freertos_kernel_port.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/out/build/x64-Debug/src/portable/CMakeFiles/edit_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/out/build/x64-Debug/src/portable/CMakeFiles/rebuild_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/out/build/x64-Debug/chatterbox_app/CMakeFiles/chatterbox_app.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/out/build/x64-Debug/chatterbox_app/CMakeFiles/edit_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/out/build/x64-Debug/chatterbox_app/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/build/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o CMakeFiles\\freertos_kernel.dir\\croutine.c.obj -c C:\\Users\\Raghul\\Desktop\\INFOTECH\\WS1\\5.RTCS\\Assignments\\Assignment-1\\chatterbox\\src\\croutine.c",
+  "file": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/src/croutine.c",
+  "output": "src/CMakeFiles/freertos_kernel.dir/croutine.c.obj"
+},
+{
+  "directory": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/build/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o CMakeFiles\\freertos_kernel.dir\\event_groups.c.obj -c C:\\Users\\Raghul\\Desktop\\INFOTECH\\WS1\\5.RTCS\\Assignments\\Assignment-1\\chatterbox\\src\\event_groups.c",
+  "file": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/src/event_groups.c",
+  "output": "src/CMakeFiles/freertos_kernel.dir/event_groups.c.obj"
+},
+{
+  "directory": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/build/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o CMakeFiles\\freertos_kernel.dir\\list.c.obj -c C:\\Users\\Raghul\\Desktop\\INFOTECH\\WS1\\5.RTCS\\Assignments\\Assignment-1\\chatterbox\\src\\list.c",
+  "file": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/src/list.c",
+  "output": "src/CMakeFiles/freertos_kernel.dir/list.c.obj"
+},
+{
+  "directory": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/build/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o CMakeFiles\\freertos_kernel.dir\\queue.c.obj -c C:\\Users\\Raghul\\Desktop\\INFOTECH\\WS1\\5.RTCS\\Assignments\\Assignment-1\\chatterbox\\src\\queue.c",
+  "file": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/src/queue.c",
+  "output": "src/CMakeFiles/freertos_kernel.dir/queue.c.obj"
+},
+{
+  "directory": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/build/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o CMakeFiles\\freertos_kernel.dir\\stream_buffer.c.obj -c C:\\Users\\Raghul\\Desktop\\INFOTECH\\WS1\\5.RTCS\\Assignments\\Assignment-1\\chatterbox\\src\\stream_buffer.c",
+  "file": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/src/stream_buffer.c",
+  "output": "src/CMakeFiles/freertos_kernel.dir/stream_buffer.c.obj"
+},
+{
+  "directory": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/build/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o CMakeFiles\\freertos_kernel.dir\\tasks.c.obj -c C:\\Users\\Raghul\\Desktop\\INFOTECH\\WS1\\5.RTCS\\Assignments\\Assignment-1\\chatterbox\\src\\tasks.c",
+  "file": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/src/tasks.c",
+  "output": "src/CMakeFiles/freertos_kernel.dir/tasks.c.obj"
+},
+{
+  "directory": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/build/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o CMakeFiles\\freertos_kernel.dir\\timers.c.obj -c C:\\Users\\Raghul\\Desktop\\INFOTECH\\WS1\\5.RTCS\\Assignments\\Assignment-1\\chatterbox\\src\\timers.c",
+  "file": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/src/timers.c",
+  "output": "src/CMakeFiles/freertos_kernel.dir/timers.c.obj"
+},
+{
+  "directory": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/build/src",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/freertos_kernel.dir/includes_C.rsp -g -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o CMakeFiles\\freertos_kernel.dir\\portable\\MemMang\\heap_5.c.obj -c C:\\Users\\Raghul\\Desktop\\INFOTECH\\WS1\\5.RTCS\\Assignments\\Assignment-1\\chatterbox\\src\\portable\\MemMang\\heap_5.c",
+  "file": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/src/portable/MemMang/heap_5.c",
+  "output": "src/CMakeFiles/freertos_kernel.dir/portable/MemMang/heap_5.c.obj"
+},
+{
+  "directory": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/build/src/portable",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/freertos_kernel_port.dir/includes_C.rsp -g -o CMakeFiles\\freertos_kernel_port.dir\\MSVC-MingW\\port.c.obj -c C:\\Users\\Raghul\\Desktop\\INFOTECH\\WS1\\5.RTCS\\Assignments\\Assignment-1\\chatterbox\\src\\portable\\MSVC-MingW\\port.c",
+  "file": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/src/portable/MSVC-MingW/port.c",
+  "output": "src/portable/CMakeFiles/freertos_kernel_port.dir/MSVC-MingW/port.c.obj"
+},
+{
+  "directory": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/build/chatterbox_app",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/chatterbox_app.dir/includes_C.rsp -g -o CMakeFiles\\chatterbox_app.dir\\main.c.obj -c C:\\Users\\Raghul\\Desktop\\INFOTECH\\WS1\\5.RTCS\\Assignments\\Assignment-1\\chatterbox\\chatterbox_app\\main.c",
+  "file": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/chatterbox_app/main.c",
+  "output": "chatterbox_app/CMakeFiles/chatterbox_app.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/build/chatterbox_app",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/chatterbox_app.dir/includes_C.rsp -g -o CMakeFiles\\chatterbox_app.dir\\main_exercise.c.obj -c C:\\Users\\Raghul\\Desktop\\INFOTECH\\WS1\\5.RTCS\\Assignments\\Assignment-1\\chatterbox\\chatterbox_app\\main_exercise.c",
+  "file": "C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-1/chatterbox/chatterbox_app/main_exercise.c",
+  "output": "chatterbox_app/CMakeFiles/chatterbox_app.dir/main_exercise.c.obj"
+}
+]

@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libfreertos_kernel_port.a "CMakeFiles/freertos_kernel_port.dir/MSVC-MingW/port.c.obj"
+C:\MinGW\bin\ranlib.exe libfreertos_kernel_port.a

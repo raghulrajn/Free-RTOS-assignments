@@ -1,0 +1,13 @@
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-3/zintertask_communication/build/CMakeFiles/edit_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-3/zintertask_communication/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-3/zintertask_communication/build/src/CMakeFiles/freertos_kernel.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-3/zintertask_communication/build/src/CMakeFiles/edit_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-3/zintertask_communication/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-3/zintertask_communication/build/src/include/CMakeFiles/edit_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-3/zintertask_communication/build/src/include/CMakeFiles/rebuild_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-3/zintertask_communication/build/src/portable/CMakeFiles/freertos_kernel_port.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-3/zintertask_communication/build/src/portable/CMakeFiles/edit_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-3/zintertask_communication/build/src/portable/CMakeFiles/rebuild_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-3/zintertask_communication/build/ipc_app/CMakeFiles/ipc_app.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-3/zintertask_communication/build/ipc_app/CMakeFiles/edit_cache.dir
+C:/Users/Raghul/Desktop/INFOTECH/WS1/5.RTCS/Assignments/Assignment-3/zintertask_communication/build/ipc_app/CMakeFiles/rebuild_cache.dir
