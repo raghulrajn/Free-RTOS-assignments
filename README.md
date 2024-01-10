@@ -13,5 +13,5 @@ The scenario consists of the following components:
 - There are three producer tasks (one for Sensor 1, one for Sensor 2A and one for Sensor 2B) which put sensor values into messages queues.
 - There is one message queue per sensor task and each sensor task writes its sensor values only into its assigned queue.
 - Also there are two consumer tasks which can take sensor values from messages queues (one for Controller 1 and one for Controller 2) and then proceed to do some computation with the sensor values.
-
+<img src="https://github.com/raghulrajn/Free-RTOS-assignments/assets/76444923/619569b1-420c-4c07-9a55-92157d225da4" width="100" height="100" />
 ![image](https://github.com/raghulrajn/Free-RTOS-assignments/assets/76444923/619569b1-420c-4c07-9a55-92157d225da4 =100x100)
