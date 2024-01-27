@@ -1,12 +1,4 @@
 /*
-* ********************************************************************
-* Student                       Matriculation Number    Student ID
-* Ancy Phillominaa albin	          3701157	         st188508
-* Raghul Raj Navaneethakrishnan	      3703553	         st189432
-* Sahana Korody Manjunatha	          3698008	         st188893
-* Naveen Dhage Shankar                3570731	         st179668
-* ********************************************************************
-/*
  * FreeRTOS Kernel V10.1.1
  * Copyright (C) 2018 Amazon.com, Inc. or its affiliates.  All Rights Reserved.
  *
