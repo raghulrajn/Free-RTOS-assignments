@@ -1,11 +1,3 @@
-
-/* ********************************************************************
-* Student                       Matriculation Number    Student ID
-* Raghul Raj Navaneethakrishnan	      3703553	         st189432
-* Naveen Dhage Shankar                3570731	         st179668
-* ********************************************************************
-
-
 /******************************************************************************
  * NOTE: Windows will not be running the FreeRTOS demo threads continuously, so
  * do not expect to get real time behaviour from the FreeRTOS Windows port, or
